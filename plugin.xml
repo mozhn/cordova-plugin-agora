@@ -78,6 +78,6 @@
     <resource-file src="src/ios/Resources/icons/btn_unmute_pressed.png" target="Resources/icons/btn_unmute_pressed.png" />
 
 
-    <framework src="AgoraRtcEngine_iOS" type="podspec" spec="3.4.2" />
+    <framework src="AgoraRtcEngine_iOS" type="podspec" spec="3.6.0" />
   </platform>
 </plugin>
