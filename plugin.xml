@@ -48,7 +48,7 @@
     <resource-file src="src/android/res/drawable-xxhdpi/btn_unmute_normal.png" target="res/drawable-xxhdpi/btn_unmute_normal.png" />
     <resource-file src="src/android/res/drawable-xxhdpi/btn_unmute_pressed.png" target="res/drawable-xxhdpi/btn_unmute_pressed.png" />
 
-    <framework src="io.agora.rtc:full-sdk:3.3.2" />
+    <framework src="io.agora.rtc:full-sdk:4.2.2" />
   </platform>
   <platform name="ios">
     <config-file parent="/*" target="config.xml">
